@@ -27,4 +27,4 @@ ICON_SIZES << IconSize.new(name: 'iphone-notification3x', size: '60x60')
 ICON_SIZES << IconSize.new(name: 'ipad-notification1x', size: '20x20')
 ICON_SIZES << IconSize.new(name: 'ipad-notification2x', size: '40x40')
 ICON_SIZES << IconSize.new(name: 'ipad-pro2x', size: '167x167')
-
+ICON_SIZES << IconSize.new(name: 'store-icon', size: '1024x1024')
