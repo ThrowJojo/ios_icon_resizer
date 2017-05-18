@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'ios_icon_resizer'
+resizer = IosIconResizer::Resizer.new
+resizer.process_image(ARGV[0])
